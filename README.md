@@ -1,5 +1,5 @@
-- 👩🏻‍🦰 Hi, I’m @DigitalCitys
-- 🧋 I’m interested in ... technology, culture, books, TV shows, foreign snacks, bubble tea
+- 👩🏻‍🦰 Hi, I’m @DigitalCitys - 20, She/Her
+- 🧋 I’m interested in ... technology, culture, and books.
 - 🌱 I’m currently learning ... Python 3
 - 💞️ I’m looking to collaborate on ... Making websites, perhaps.
 - 📫 How to reach me ... TBA
