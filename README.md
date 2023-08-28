@@ -1,6 +1,6 @@
 - 👩🏻‍🦰 Hi, I’m @DigitalCitys - 20, She/Her
 - 🧋 I’m interested in ... technology, culture, and books.
-- 🌱 I’m currently learning ... Python 3
+- 🌱 I’m currently learning ... Python 3 and JavaScript
 - 💞️ I’m looking to collaborate on ... Making websites, perhaps.
 - 📫 How to reach me ... TBA
 
