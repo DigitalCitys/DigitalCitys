@@ -1,4 +1,4 @@
-Giulia | She/Her | Early 20s
+🌸 Giulia | She/Her | Early 20s 🌸
 
 Learning Python 3 and Java
 
