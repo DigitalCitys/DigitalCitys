@@ -1,8 +1,8 @@
-- 👩🏻‍🦰 Hi, I’m @DigitalCitys - 20, She/Her
-- 🧋 I’m interested in ... technology, culture, and books.
-- 🌱 I’m currently learning ... Python 3 and JavaScript
-- 💞️ I’m looking to collaborate on ... Making websites, perhaps.
-- 📫 How to reach me ... TBA
+Giulia | She/Her | Early 20s
+
+Learning Python 3 and Java
+
+Feel free to drop some tips and suggestions! I'm all for self-improvement!
 
 <!---
 DigitalCitys/DigitalCitys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
