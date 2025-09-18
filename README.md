@@ -1,8 +1,4 @@
-🌸 Giulia | She/Her | Early 20s 🌸
-
-Learning Python 3 and Java
-
-Feel free to drop some tips and suggestions! I'm all for self-improvement!
+Learning Python 3 and Java. I like planes
 
 <!---
 DigitalCitys/DigitalCitys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
