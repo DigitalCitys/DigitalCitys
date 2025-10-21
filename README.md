@@ -1,4 +1,4 @@
-Learning Python 3 and Java. I like planes
+Learning Python 3 and Java. Engineering the future.
 
 <!---
 DigitalCitys/DigitalCitys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
